@@ -11,9 +11,11 @@ body {
 }
 
 h1 {
-  color: #191970;
-  text-size: 50px;
+  color: AliceBlue;
+  text-size: 40px;
   margin: 10px;
+  position: fixed;
+  align: center;
 }
 
 h2 {
